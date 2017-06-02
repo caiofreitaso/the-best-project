@@ -86,7 +86,7 @@ Docker is love. Docker is life.
 If you need to setup your own configuration for the best project ever, those are the environment variables used.
 
 |**Environment Variable**|**Value**|
-|:----------------------:|--------:|
+|:----------------------:|:-------:|
 |`THE BEST`|`this project`|
 
 
